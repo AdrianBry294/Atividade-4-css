@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Selfie com minha avó e minha tia</h1>
+    <img src="./img/eu, tia e vo.jpg" alt="">
+    <p>Minha avó, que mora no interior, veio para a casa da minha tia por questões de saúde. Ao saber disso, meu pai me levou para vê-la. Esta foto é muito importante para mim, pois após alguns meses ela acabou falecendo.</p>
+</body>
+</html>
